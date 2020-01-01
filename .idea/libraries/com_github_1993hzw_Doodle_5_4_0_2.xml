@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.1993hzw:Doodle-5.4.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Doodle-5.4.0.2.aar/5d3d26133fcae597a643dea3aa7ac811/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Doodle-5.4.0.2.aar/5d3d26133fcae597a643dea3aa7ac811/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.1993hzw/Doodle/5.4.0.2/c071525f64f6931b922bcd92c4fb0b9d704708ed/Doodle-5.4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

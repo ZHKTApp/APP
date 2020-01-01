@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.androidkun:XTabLayout-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/XTabLayout-1.1.1.aar/e8fb2181eb7181cf663b2f53275911fa/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/XTabLayout-1.1.1.aar/e8fb2181eb7181cf663b2f53275911fa/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.androidkun/XTabLayout/1.1.1/d743901612baf16f1f05629a5a932e03f8e73621/XTabLayout-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

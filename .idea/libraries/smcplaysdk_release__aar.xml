@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="smcplaysdk-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/smcplaysdk-release.aar/7ae66d98285203e8640e0fe7f65a393f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/smcplaysdk-release.aar/7ae66d98285203e8640e0fe7f65a393f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
